@@ -3,7 +3,7 @@ This serves as a comprehensive guide and example repository for educational expl
 
 
 # Disclaimer
-The information and code provided in this repository are for educational purposes only. Misuse of this information can violate local laws and regulations. Use this information responsiblyc 😉 .
+The information and code provided in this repository are for educational purposes only. Misuse of this information can violate local laws and regulations. Use this information responsibly 😉 .
 
 # What does it do?
 
